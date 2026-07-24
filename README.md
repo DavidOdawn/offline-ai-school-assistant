@@ -32,6 +32,3 @@ This project was created to explore how software can improve learning experience
 
 Computer Engineering Student  
 Federal University of Technology, Minna
-
-    ## 📸 Screenshot
-    ![App Screenshot](app.py-screenshot.jpg)
